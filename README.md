@@ -1,1 +1,1 @@
-# template
+# DOMAIN.TLD
